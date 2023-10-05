@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F2F8FB;
+    width: 100%;
+    height: 200vh;
+}
+h1{
+    font-family: $h1-font-family;
+    color: $h1-color;
+}
+p{
+    font-family: $p-font-family;
+    color: $p-color;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
